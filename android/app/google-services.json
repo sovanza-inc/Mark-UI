@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "782888529532",
+    "project_id": "official-dent-a-i-copy-zyo0js",
+    "storage_bucket": "official-dent-a-i-copy-zyo0js.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782888529532:android:d6a25c71ce123fafad63f9",
+        "android_client_info": {
+          "package_name": "com.mycompany.brokerage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782888529532-6n0tsirl6t3hfksg2503jstvuo06m53h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.brokerage",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "782888529532-pc8l6fs6miqsem7m0qh700i6h7miqhnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2dxLhZiZNk6vzAn1Vkcf6Qf6Lrx4s1cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782888529532-pc8l6fs6miqsem7m0qh700i6h7miqhnu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782888529532-4amp2i0v2tm03mohf00jprepeqbnph4s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.brokerage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
